@@ -18,7 +18,7 @@
 ### 排程 Scheduler 
 | Keywords | Paper Title| PDF | Slide | Year |
 | ------ | ----------- | ----------- | ----------- |---|
-| DL, AS, kubernetes| Deep Learning Based Auto-Scaling Load Balancing Mechanism for Distributed Software-Defined Storage Service |  [[pdf]](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdrs=id=%22106NTTI5392012%22.&searchmode=basic) | [[slide]]| 2018| 
+| DL, AS, kubernetes| Deep Learning Based Auto-Scaling Load Balancing Mechanism for Distributed Software-Defined Storage Service |  [[pdf]](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22106NTTI5392012%22.&searchmode=basic) | [[slide]]| 2018| 
 | DL, DS | GeePS: Scalable deep learning on distributed GPUs with a GPU-specialized parameter server |  [[pdf]](http://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf) | [[slide]](https://www.cs.cmu.edu/~hzhang2/projects/GeePS/slides.pdf)| 2015|
 | DL, DS| Multi-tenant GPU Clusters for Deep Learning Workloads: Analysis and Implications |  [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) | [[slide]]| 2018|
 | DL, Scheduling| Online Job Scheduling in Distributed Machine Learning Clusters |  [[pdf]](https://arxiv.org/pdf/1801.00936.pdf) | [[slide]]| 2018|
