@@ -26,4 +26,4 @@
 | DL, Scheduling | Scheduling CPU for GPU-based Deep Learning Jobs |  [[pdf]](https://goo.gl/UQ99sG ) | [slide]]| 2018|
 | NE, DL,Scheduling| DLTAP: A Network-efficient Scheduling Method for Distributed Deep Learning Workload in Containerized Cluster Environment |  [[pdf]](https://www.itm-conferences.org/articles/itmconf/pdf/2017/04/itmconf_ita2017_03030.pdf) | [[slide]]| 2018|
 | RM, DMLCS,RU | GAI: A Centralized Tree-Based Scheduler for Machine Learning Workload in Large Shared Clusters |  [[pdf]](https://goo.gl/UQ99sG ) | [slide]]| 2018|
-| RM | Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Cluster |  [[pdf]](https://arxiv.org/pdf/1512.06216.pdf ) | [slide]]| 2018|
+| RM | Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Cluster |  [[pdf]](http://delivery.acm.org/10.1145/3200000/3190517/a3-peng.pdf?ip=59.125.186.121&id=3190517&acc=ACTIVE%20SERVICE&key=AF37130DAFA4998B%2E06194485C9F277C0%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545644706_6259e6e8fe8084e15167ba17895b1a39) | [slide]]| 2018|
