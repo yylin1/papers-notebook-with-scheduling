@@ -27,11 +27,14 @@
 | NE, DL,Scheduling| DLTAP: A Network-efficient Scheduling Method for Distributed Deep Learning Workload in Containerized Cluster Environment |  [[pdf]](https://www.itm-conferences.org/articles/itmconf/pdf/2017/04/itmconf_ita2017_03030.pdf) | [[slide]]| 2018|
 | RM, DMLCS,RU | GAI: A Centralized Tree-Based Scheduler for Machine Learning Workload in Large Shared Clusters |  [[pdf]](https://goo.gl/UQ99sG ) | [slide]| 2018|
 | RM | Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Cluster |  [[pdf]](https://arxiv.org/pdf/1512.06216.pdf ) | [slide]]| 2018|
+| DS,PS | Scaling Distributed Machine Learning with the Parameter Server |  [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf ) | [[slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi14_slides_li-mu.pdf)[[Video]](https://www.usenix.org/node/186215)| 2014|
+| DL,Training System | Project Adam: Building an Efficient and Scalable Deep Learning Training System |  [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf ) | [[Video]](https://www.usenix.org/node/186213)| 2014|
 
 ---
 ### Classic [排程(Scheduler)]
 - [Comparison of Container Schedulers](https://medium.com/@ArmandGrillet/comparison-of-container-schedulers-c427f4f7421)
 - [The evolution of cluster scheduler architectures[翻譯]](http://dockone.io/article/1113)
+- [TensorFlow: A system for large-scale machine learning](https://arxiv.org/pdf/1605.08695.pdf)
 
 ### Paper Direction
 - Traditional scheduling architecture
