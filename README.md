@@ -25,13 +25,15 @@
 | DL, Scheduling| Gandiva: Introspective Cluster Scheduling for Deep Learning |  [[pdf]](https://www.usenix.org/system/files/osdi18-xiao.pdf) | [slide](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_sivathanu.pdf)| 2018|
 | DL, Scheduling | Scheduling CPU for GPU-based Deep Learning Jobs |  [[pdf]](https://goo.gl/UQ99sG ) | [slide]| 2018|
 | NE, DL,Scheduling| DLTAP: A Network-efficient Scheduling Method for Distributed Deep Learning Workload in Containerized Cluster Environment |  [[pdf]](https://www.itm-conferences.org/articles/itmconf/pdf/2017/04/itmconf_ita2017_03030.pdf) | [[slide]]| 2018|
-| RM, DMLCS,RU | GAI: A Centralized Tree-Based Scheduler for Machine Learning Workload in Large Shared Clusters |  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-05054-2_46) | [slide]| 2018|
+| RM, DMLCS,RU | GAI: A Centralized Tree-Based Scheduler for Machine Learning Workload in Large Shared Clusters |  [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-05054-2_46.pdf) | [slide]| 2018|
 | RM | Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Cluster |  [[pdf]](https://arxiv.org/pdf/1512.06216.pdf ) | [slide]]| 2018|
 | DS,PS | Scaling Distributed Machine Learning with the Parameter Server |  [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf ) | [[slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi14_slides_li-mu.pdf)[[Video]](https://www.usenix.org/node/186215)| 2014|
 | DL,Training System | Project Adam: Building an Efficient and Scalable Deep Learning Training System |  [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf ) | [[Video]](https://www.usenix.org/node/186213)| 2014|
 | DL, PS |Parameter Hub: a Rack-Scale Parameter Server for Distributed Deep Neural Network Training | [[pdf]](https://arxiv.org/pdf/1805.07891.pdf) | [slide]]| 2018|
 | DL, PS |Scaling Distributed Machine Learning with the Parameter Server | [[pdf]](https://www.cs.cmu.edu/~muli/file/parameter_server_osdi14.pdf) | [slide]]| 2014|
-| DL, PS |Applied Machine Learning at Facebook:A Datacenter Infrastructure Perspective | [[pdf]](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf) | [slide]]| 2014|
+| ML, Datacenter |Applied Machine Learning at Facebook:A Datacenter Infrastructure Perspective | [[pdf]](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf) | [slide]]| 2014|
+| ML,  benchmarking |Kubebench: A Benchmarking Platform for ML Workloads | [[pdf]](https://alln-extcloud-storage.cisco.com/ciscoblogs/5c0fda3a560b9.pdf) | [slide]]| 2018|
+
 
 ---
 ### Classic [排程(Scheduler)]
