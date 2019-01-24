@@ -33,6 +33,8 @@
 | DL, PS |Scaling Distributed Machine Learning with the Parameter Server | [[pdf]](https://www.cs.cmu.edu/~muli/file/parameter_server_osdi14.pdf) | [slide]]| 2014|
 | ML, Datacenter |Applied Machine Learning at Facebook:A Datacenter Infrastructure Perspective | [[pdf]](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf) | [slide]]| 2014|
 | ML,  benchmarking |Kubebench: A Benchmarking Platform for ML Workloads | [[pdf]](https://alln-extcloud-storage.cisco.com/ciscoblogs/5c0fda3a560b9.pdf) | [slide]]| 2018|
+| Scheduling, GPU, Workload | Topology-Aware GPU Scheduling for Learning Workloads in Cloud Environments | [[pdf]](https://upcommons.upc.edu/bitstream/handle/2117/114851/Topology-Aware%20GPU%20Scheduling%20for%20Learning%20Workloads.pdf) | [slide]]| 2017|
+
 
 
 ---
