@@ -16,13 +16,13 @@
 - RS: Resource scheduling
 - DMLCS: Distributed machine learning Centralized scheduling
 - PA: Performance Analysis
-
+- PT: Parallelized Training
 
 ## 文獻
-### 排程 Scheduler 
+### 排程 Scheduler
+
 | Keywords | Paper Title| PDF | Slide | Year |
 | ------ | ----------- | ----------- | ----------- |---|
-| DL, Scheduling, Algorithm | **Online Job Scheduling in Distributed Machine Learning Clusters** |  [[pdf]](https://arxiv.org/pdf/1801.00936.pdf) | [slide]| 2018|
 | DL, Scheduling| Gandiva: Introspective Cluster Scheduling for Deep Learning |  [[pdf]](https://www.usenix.org/system/files/osdi18-xiao.pdf) | [[slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_sivathanu.pdf)| 2018|
 | DL, CPU, RS | **Scheduling CPU for GPU-based Deep Learning Jobs** |  [[pdf]](https://goo.gl/UQ99sG ) | [slide]| 2018|
 | DL, NE, Scheduling| DLTAP: A Network-efficient Scheduling Method for Distributed Deep Learning Workload in Containerized Cluster Environment |  [[pdf]](https://www.itm-conferences.org/articles/itmconf/pdf/2017/04/itmconf_ita2017_03030.pdf) | [slide]| 2018|
@@ -41,8 +41,10 @@
 | DL, AS, kubernetes| **Deep Learning Based Auto-Scaling Load Balancing Mechanism for Distributed Software-Defined Storage Service** |  [[pdf]](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22106NTTI5392012%22.&searchmode=basic) | [slide]| 2018|
 | ML, benchmarking, kubernetes |Kubebench: A Benchmarking Platform for ML Workloads | [[pdf]](https://alln-extcloud-storage.cisco.com/ciscoblogs/5c0fda3a560b9.pdf) | [slide]| 2018|
 | RM, DMLCS,RU, kubernetes | GAI: A Centralized Tree-Based Scheduler for Machine Learning Workload in Large Shared Clusters |  [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-05054-2_46.pdf) | [slide]| 2018
-
-
+| DL, Scheduling, Algorithm | **Online Job Scheduling in Distributed Machine Learning Clusters** |  [[pdf]](https://arxiv.org/pdf/1801.00936.pdf) | [slide]| 2018|
+| Autoscaling, kubernetes | Containers Orchestration with Cost-Efficient Autoscaling in Cloud Computing Environments |  [[pdf]](https://arxiv.org/pdf/1812.00300.pdf) | [slide]| 2018|
+| DL, PT, kubernetes | Parallelized Training of Deep NN – Comparison of Current Concepts and Frameworks |  [[pdf]](https://arxiv.org/pdf/1812.00300.pdf) | [slide]| 2018|
+ 
 
 #### # other 
 
@@ -51,6 +53,7 @@
 | DL, DS| Multi-tenant GPU Clusters for Deep Learning Workloads: Analysis and Implications |  [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) | [slide]| 2018|
 | DL, DS | **GeePS: Scalable deep learning on distributed GPUs with a GPU-specialized parameter server** |  [[pdf]](http://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf) | [[slide]](https://www.cs.cmu.edu/~hzhang2/projects/GeePS/slides.pdf)| 2015|
 | DL | Poseidon: A system architecture for efficient GPU-based deep learning on multiple machines |  [[pdf]](https://arxiv.org/pdf/1512.06216.pdf) | [slide]| 2015|
+| Mesos, Marathon, Ceph | Toward High-Availability Container as a Service on Mesos Cluster with Distributed Shared Volumes |  [[pdf]](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22105CHPI0392016%22.&searchmode=basic) | [slide]| 2015|
 
 ---
 
