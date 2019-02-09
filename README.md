@@ -73,3 +73,10 @@
 
 ### Ref-Link
 - [分佈式機器學習/ 深度學習論文整理](http://jcf94.com/2017/12/20/2017-12-20-distributeddl/)
+
+### Operator Learning 
+- [使用 operator 擴展kubernetes- 沃趣科技-袁琳峰](http://bucket.k8smeetup.com/%E4%BD%BF%E7%94%A8%20Operator%20%E6%9D%A5%E6%89%A9%E5%B1%95%20Kubernetes.pdf)
+- [Write an Operator to handle CRD](https://speakerdeck.com/kairen/write-an-operator-to-handle-crd)
+- [Extending Kubernetes: Create Controllers for Core and Custom Resources](https://medium.com/@trstringer/create-kubernetes-controllers-for-core-and-custom-resources-62fc35ad64a3?fbclid=IwAR32SpJB-fsDdK3hlQwrmxG54EE_x1bFP7THDYjyrjgTe_kz6y_2bZkmx0s)
+- [第一次玩 operator-sdk 就上手](https://bestsamina.github.io/posts/2019-02-04-first-operator-sdk-helm/?fbclid=IwAR0LGrYqIZ5c8h02gI8ohiVpdJj_Ug8AGqcx8WRsmLV8ol-YjJeINpCQhOk)
+
