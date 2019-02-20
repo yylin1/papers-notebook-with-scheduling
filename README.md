@@ -74,6 +74,13 @@
 ### Ref-Link
 - [分佈式機器學習/ 深度學習論文整理](http://jcf94.com/2017/12/20/2017-12-20-distributeddl/)
 
+
+## Learning Scheduler 
+- Scheulder affinity
+- Scheduler Policy
+- Hardware GPU topology
+- Kube-batch
+
 ### Operator Learning 
 - [使用 operator 擴展kubernetes- 沃趣科技-袁琳峰](http://bucket.k8smeetup.com/%E4%BD%BF%E7%94%A8%20Operator%20%E6%9D%A5%E6%89%A9%E5%B1%95%20Kubernetes.pdf)
 - [Write an Operator to handle CRD](https://speakerdeck.com/kairen/write-an-operator-to-handle-crd)
