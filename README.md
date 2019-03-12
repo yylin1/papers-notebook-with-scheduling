@@ -44,8 +44,7 @@
 | DL, Scheduling, Algorithm | **Online Job Scheduling in Distributed Machine Learning Clusters** |  [[pdf]](https://arxiv.org/pdf/1801.00936.pdf) | [slide]| 2018|
 | Autoscaling, kubernetes | Containers Orchestration with Cost-Efficient Autoscaling in Cloud Computing Environments |  [[pdf]](https://arxiv.org/pdf/1812.00300.pdf) | [slide]| 2018|
 | DL, PT, kubernetes | Parallelized Training of Deep NN – Comparison of Current Concepts and Frameworks |  [[pdf]](https://arxiv.org/pdf/1812.00300.pdf) | [slide]| 2018|
-| DL, Resource Orchestration, Job Scheduling, Autoscaling | DRAGON: A Dynamic Scheduling and Scaling Controller
-for Managing Distributed Deep Learning Jobs in Kubernetes Cluster |  [pdf] | [slide]| 2019|
+| DL, Resource Orchestration, Job Scheduling, Autoscaling | DRAGON: A Dynamic Scheduling and Scaling Controller for Managing Distributed Deep Learning Jobs in Kubernetes Cluster | [pdf] | [slide]| 2019|
  
  
 
