@@ -33,6 +33,7 @@
 | RM | Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Cluster |  [[pdf]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf ) | [slide]| 2018|
 | DS, PS | Scaling Distributed Machine Learning with the Parameter Server |  [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf ) | [[slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi14_slides_li-mu.pdf)[[Video]](https://www.usenix.org/node/186215)| 2014|
 | Scheduling, GPU, PA, RC | **Topology-Aware GPU Scheduling for Learning Workloads in Cloud Environments** | [[pdf]](https://upcommons.upc.edu/bitstream/handle/2117/114851/Topology-Aware%20GPU%20Scheduling%20for%20Learning%20Workloads.pdf) | [slide]| 2017|
+| DL, GPU | Multi-tenant GPU Clusters for Deep Learning Workloads: Analysis and Implications | [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) | [slide]| 2018|
 
 
 #### # kubernetes 
@@ -56,6 +57,7 @@
 | DL, DS | **GeePS: Scalable deep learning on distributed GPUs with a GPU-specialized parameter server** |  [[pdf]](http://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf) | [[slide]](https://www.cs.cmu.edu/~hzhang2/projects/GeePS/slides.pdf)| 2015|
 | DL | Poseidon: A system architecture for efficient GPU-based deep learning on multiple machines |  [[pdf]](https://arxiv.org/pdf/1512.06216.pdf) | [slide]| 2015|
 | Mesos, Marathon, Ceph | Toward High-Availability Container as a Service on Mesos Cluster with Distributed Shared Volumes |  [[pdf]](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22105CHPI0392016%22.&searchmode=basic) | [slide]| 2015|
+
 
 ---
 
