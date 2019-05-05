@@ -38,6 +38,8 @@
 | RM | Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Cluster |  [[pdf]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf ) | [slide]| 2018|
 | DS, PS | Scaling Distributed Machine Learning with the Parameter Server |  [[pdf]](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf ) | [[slide]](https://www.usenix.org/sites/default/files/conference/protected-files/osdi14_slides_li-mu.pdf)[[Video]](https://www.usenix.org/node/186215)| 2014|
 | Scheduling, GPU, PA, RC | Topology-Aware GPU Scheduling for Learning Workloads in Cloud Environments | [[pdf]](https://upcommons.upc.edu/bitstream/handle/2117/114851/Topology-Aware%20GPU%20Scheduling%20for%20Learning%20Workloads.pdf) | [slide]| 2017|
+| DL, RO, Job Scheduling, Autoscaling | DRAGON: A Dynamic Scheduling and Scaling Controller for Managing Distributed Deep Learning Jobs in Kubernetes Cluster | [[pdf]](http://insticc.org/node/TechnicalProgram/closer/presentationDetails/77076) | [slide]| 2017|
+
 
 
 ### kubernetes 
